@@ -1,0 +1,76 @@
+# FA Viva Lee WT
+
+- Patient is a smoker → risk of non union infection
+- patient has no lift landing → may need step down care
+- Short cases
+    - prepare equipment
+- Case 1 - foot drop
+    - Foot drop gait.
+    - “normal cadence, no listing, SYMMETRICAL arm swing.”
+    - “lack of ankle dorsiflexion, high steppage and landing flat on the ground”
+    - “I will like to proceed to do History, PE and invx”
+    - History - main intent is to look for level. functional deficit
+    - PE - cause
+        - Full neuro exam including spine
+        - Examination of foot - to look for power of the tendons around the foot
+        - Full vascular exam
+    - Invx -
+    - Cause - neuro vs non neuro
+    - Tendon transfer principles
+    - 3 strategies
+        - EHL to tib ant transfer with fusion of IPJ to prevent toe stubbing * done more in adults
+            - Put to middle or lateral cuneiform to prevent supination
+            - If CPN is affected ➔ use post tib
+        - Static restraint method -
+        - Fusion of joint
+    - Tendon transfer principles? Donor, Joint and bed factors.
+- Case 2 - Pes planus
+    - Assessment for
+        - Underlying Etiology -
+        - Rigid vs Flexible
+        - Complication of this disease
+        - Management options
+    - ** Arches of the foot?
+    - XR - look for coalitions. ask for ANKLE XR
+    - Goal of treatment - painless plantigrade foot
+        - Dependant on symptoms and function
+        - **Non op vs op**
+        - Op
+            - Flexible - tendon transfers and osteotomies
+            - Rigid - fusion
+    - What I am looking out for in the history?
+        - Underlying etiology/ Risk factors
+        - Severity - functional deficit, sepsis
+        - Factors that will affect my management
+        - Specific
+            - Flat foot - fixed or rigid
+- Case 3 - Charcot Foot
+    - Assessment for
+    - Management goal: achieve a painless plantigrade foot at end of coalescence stage with the option of deformity correction when in the consolidation stage
+- Case 4 - lateral ligament complex torn
+    - demonstration of torn CFL
+    - In my history and physical examination
+        - Underlying etiology - trauma/ recurrence
+        - Complication - pain with OCL
+        - Risk factors - pes Cavus, hyperlaxity
+        - Management
+- Case 5 - Hallux valgus
+    - THings that can affect treatment
+        - Function and symptoms
+        - Associated problems - TMTJ hypermobility, OA
+    - Surgical treatment for hallux valgus?
+        - Fusion vs Correction dependant on severity and associated conditions
+            - Fusion is indicated if severe/ TMTJ hyperlaxity/ underlying OA
+            - Correction is a combination of bony and soft tissue procedures
+    - Use IMA to guide treatments
+- Case 6 - Pes Cavus
+    - I will approach this patient with a triple assessment of Hx PE and Invx
+    - In my hx and Pe, i am looking for
+        - Etiology
+        - severity
+        - Specific - flexible or dynamic
+        - complications
+        - factors that will affect my management
+    - Management goal is -
+    - Management plan is non op vs op depending on flexibility of the foot
+    - Weil’s + fusion
